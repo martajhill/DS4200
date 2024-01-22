@@ -1,6 +1,6 @@
 
   let myImage = document.querySelector('img');
-
+// meaningful interaction! (image switch with button)
 myImage.onclick = function() {
   let mySrc = myImage.getAttribute('src');
   if(mySrc === 'images/firefox-icon.png') {
@@ -10,7 +10,7 @@ myImage.onclick = function() {
   }
 }
 
-// Personalized welcome message code
+// meaningful interaction! (button + prompt to enter name)
 
 let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h2');

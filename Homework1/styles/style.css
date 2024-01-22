@@ -1,9 +1,13 @@
 html {
+  /*custom font*/
+
     font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
     font-family: "Montserrat"; /* this should be the rest of the output you got from Google Fonts */
   }
 
 html {
+  /*custom background color*/
+
     background-color: #accff0;
   }
   h1 {
@@ -11,6 +15,7 @@ html {
     text-align: center;
     margin: 0;
     padding: 20px 0;
+    /*custom color*/
     color: #00539f;
     text-shadow: 3px 3px 1px black;
   }
@@ -20,6 +25,7 @@ html {
     text-align: center;
     margin: 0;
     padding: 20px 0;
+    /*custom color*/
     color: #00539f;
     text-shadow: 3px 3px 1px black;
   }
